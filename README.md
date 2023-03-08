@@ -4,4 +4,4 @@ Some description!
 
 ## Subheader
 
-Watch tutorial on YoyTube.
+Watch tutorial on YouTube.
